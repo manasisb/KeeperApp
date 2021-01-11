@@ -1,5 +1,5 @@
 **Why this application?**
-Every online platform have various kinds of emojis, and we milennials love to use them all the time. But do we know the exact meanings of these emoji's. Here is the application which describes the meaning, name and icons of the emoji.
+* We all need to keep track of the to do lists that we need to complete on everyday basis or take notes and differeate it based on topics. Keeper App is the best way to keep note os all the things to do. Here is a small application which helps keep add notes, delete notes, serach etc.
 
 
 **Steps to run this application on local machine**
@@ -11,4 +11,4 @@ Every online platform have various kinds of emojis, and we milennials love to us
 * Run npm install
 * npm start
 
-![Emojipedia_image](/Emojipedia.png);
+![KeeperApp](/KeeperApp.png);
